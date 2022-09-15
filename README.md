@@ -40,4 +40,4 @@ Firstly, if we look at the successful campaigns in the theater category, the bes
 Secondly, when looking at the failure percentages, failures in May, June, July, August and October have almost equivalent values. The fact that high successes and high failures overlap with each other shows us that more campaigns were launched in these periods than in other periods.
 
 ### 2. What can you conclude about the Outcomes Based on Goals?
-
+When the results based on the goals are examined, the success rate is observed to be low as the goal increases in the beginning. The target ranges of 35k and 45k dollars may seem successful, but it should be noted that there are very few projects in the target range. According to the analysis result, it literally shows that more than 80% of the projects have a target below 20k dollars.
