@@ -22,3 +22,6 @@ With the help of the pivot table, we created a line chart to display the theater
 In this analysis, we evaluated the results of the campaigns according to the fundraising goals and games campaigns by subcategory. For this, we aimed to create a new table and analyzed the successful, unsuccessful and canceled campaigns on the basis of the games subcategory, within the framework of the number target amounts of the campaigns, using the COUNTIFS() excel function. Using this data, we calculated the percentages of successful, unsuccessful and canceled campaigns with the help of our total number of projects. After analyzing all of our data in our table, we have completed the visualization of our results based on goals with the help of the line chart. You can see this line graph below.
 
 <img width="1151" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/26927158/190502613-3e4424d0-0d32-43eb-aee1-be910a5c3757.png">
+
+### Challenges and Difficulties Encountered
+
