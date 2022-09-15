@@ -13,3 +13,7 @@ Fundraising analysis with the available data of the past time takes place in two
 In our initial analysis, we filtered the results of the campaigns through theatrical campaigns. In order to analyze these data, we created a pivot chart. In order to carry out this analysis, we had to determine the years. We added a new column and used the years function in excel based on the start date of each campaign. Next, we created the pivot table from the kickstarter datasheet and did our analysis on a month-to-month basis using the theater category and the years filter.
 
 <img width="374" alt="Theatre_Outcomes_Based_on_Launch" src="https://user-images.githubusercontent.com/26927158/190499561-a0fff86f-01c2-4ed5-97c4-3c651be6ab40.png">
+
+With the help of the pivot table, we created a line chart to display the theater results by launch date.
+
+<img width="857" alt="Theatre_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/26927158/190500210-8615210b-6aa4-45f6-aabc-4001eaf4977c.png">
