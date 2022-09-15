@@ -34,4 +34,4 @@ COUNTIFS, another excel function, was a formula that I did not know how to use b
 
 ## Results
 
-### What are two conclusions you can draw about the Outcomes Based on the Launch Date?
+### 1. What are two conclusions you can draw about the Outcomes Based on the Launch Date?
