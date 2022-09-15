@@ -30,7 +30,7 @@ Although I had no difficulty in creating the table for visualizations, when the 
 
 In the pivot table, the months appeared in the form of numbers. No matter how hard I tried, I couldn't find an easy way and the formulas made it harder, but finally I was able to solve my problem.
 
-COUNTIFS, another excel function, was a formula that I did not know how to use before. It would be correct to say that it made it easy for me to learn how to analyze on the basis of intervals.
+COUNTIFS(), another excel function, was a formula that I did not know how to use before. It would be correct to say that it made it easy for me to learn how to analyze on the basis of intervals.
 
 ## Results
 
