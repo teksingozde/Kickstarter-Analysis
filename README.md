@@ -35,3 +35,6 @@ COUNTIFS(), another excel function, was a formula that I did not know how to use
 ## Results
 
 ### 1. What are two conclusions you can draw about the Outcomes Based on Launch Date?
+Firstly, if we look at the successful campaigns in the theater category, the best months are May, June and July. It can be said that starting a campaign in these months is the right time.
+
+Secondly, when looking at the failure percentages, failures in May, June, July, August and October have almost equivalent values. The fact that high successes and high failures overlap with each other shows us that more campaigns were launched in these periods than in other periods.
