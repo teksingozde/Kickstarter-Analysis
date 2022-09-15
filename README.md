@@ -17,3 +17,5 @@ In our initial analysis, we filtered the results of the campaigns through theatr
 With the help of the pivot table, we created a line chart to display the theater results by launch date.
 
 <img width="857" alt="Theatre_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/26927158/190500210-8615210b-6aa4-45f6-aabc-4001eaf4977c.png">
+
+# Analysis of Outcomes Based on Goals
