@@ -42,10 +42,10 @@ Secondly, when looking at the failure percentages, failures in May, June, July, 
 ### 2. What can you conclude about the Outcomes Based on Goals?
 When the results based on the goals are examined, the success rate is observed to be low as the goal increases in the beginning. The target ranges of 35k and 45k dollars may seem successful, but it should be noted that there are very few projects in the target range. According to the analysis result, it literally shows that more than 80% of the projects have a target below 20k dollars.
 
-### What are some limitations of this dataset?
+### 3. What are some limitations of this dataset?
 In fact, it would be correct to say that there are always limits to the data while performing the analysis. Sometimes, it can be very difficult to obtain data for all kinds of variables in order to make an analysis. However, if we write for the data we have, the success of the project can be evaluated not only in a single country, but also in many countries. For a more meaningful confidence interval, the time variable may contain data from a wider time period.
 
-### What are some other possible tables and/or graphs that we could create?
+### 4. What are some other possible tables and/or graphs that we could create?
 In the campaign, we can make a visualization about how a longer period of time affects the goals of the campaigns on the basis of the time variable.
 
 In addition, some examples can be included to give more details after the first set of charts and tables. Although we create our pivot table on a monthly basis, the days of each month can also be included in this analysis.
