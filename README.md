@@ -25,6 +25,9 @@ In this analysis, we evaluated the results of the campaigns according to the fun
 
 ### Challenges and Difficulties Encountered
 In this analysis, it was necessary to add new columns to our existing data set. In fact, I can say that it was useful, the reason is that I had the opportunity to learn excel formulas that I had not used before. First of all, it was very difficult to add the start and end dates of the launches as columns. I can say it took a long time. We had to use the date function to write the start and end data we had in date format. It took me a long time to use it and understand how to use it.
+
 Although I had no difficulty in creating the table for visualizations, when the figures in the table were not visible in the analysis, I could see the table when I saved it to the computer. I learned how to fix this problem.
+
 In the pivot table, the months appeared in the form of numbers. No matter how hard I tried, I couldn't find an easy way and the formulas made it harder, but finally I was able to solve my problem.
+
 COUNTIFS, another excel function, was a formula that I did not know how to use before. It would be correct to say that it made it easy for me to learn how to analyze on the basis of intervals.
